@@ -51,8 +51,8 @@
 
 ### 📫 Контакты
 
-- Telegram: [@orelkrylatiy](https://t.me/orelkrylatiy)  
-- Email: agafonwave@[домен].ru  
+- Telegram: [@agafonwave](https://t.me/agafonwave)  
+- Email: maxim700a@gmail.com  
 - GitHub: [github.com/orelkrylatiy](https://github.com/orelkrylatiy)
 
 ---
